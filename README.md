@@ -46,3 +46,7 @@ ObjectBox-Groq-RAG/
 ├── .env                # Protected hardware credentials and API tokens
 ├── requirements.txt    # Declared environment package definitions
 └── README.md           # Repository documentation page
+```
+<p align="center">
+  <img src="frontpage.png" alt="Application Workspace View" width="100%">
+</p>

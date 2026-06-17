@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-core
+langchain-classic
+langchain-community
+langchain-groq
+langchain-google-genai
+langchain-objectbox
+objectbox
+python-dotenv
+pypdf
+google-generativeai
+tiktoken
+PyPDFDirectoryLoader
